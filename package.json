@@ -26,5 +26,8 @@
   "homepage": "https://github.com/zeallat/eslint-config-zeallat-base#readme",
   "devDependencies": {
     "typescript": "^4.4.4"
+  },
+  "peerDependencies": {
+    "eslint": ">= 8"
   }
 }
