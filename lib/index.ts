@@ -1,4 +1,4 @@
-export default {
+const config = {
     env: {
         browser: true,
         es2021: true,
@@ -54,3 +54,5 @@ export default {
         '@typescript-eslint/no-use-before-define': ['error'],
     },
 };
+
+export default config;
