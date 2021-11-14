@@ -29,9 +29,10 @@
   },
   "peerDependencies": {
     "eslint": ">= 8",
-    "@typescript-eslint": ">= 5.3.1"
+    "@typescript-eslint/eslint-plugin": ">= 5.3.1"
   },
   "dependencies": {
-    "airbnb-base": "^15.0.0"
+    "eslint-config-airbnb-base": "^15.0.0",
+    "@typescript-eslint/parser": "^5.3.1"
   }
 }
