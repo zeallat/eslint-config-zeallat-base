@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-zeallat-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zeallat/eslint-config-zeallat-base.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "jimmy <jimmy@soomgo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeallat/eslint-config-zeallat-base/issues"
+  },
+  "homepage": "https://github.com/zeallat/eslint-config-zeallat-base#readme"
+}
